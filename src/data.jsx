@@ -49,7 +49,7 @@ export const projects = [
   {
     id: nanoid(),
     img: 'https://images.pexels.com/photos/2148222/pexels-photo-2148222.jpeg?auto=compress&cs=tinysrgb&w=800',
-    url: '#',
+    url: 'https://notekeepingapp.netlify.app/',
     github: 'https://github.com/NormanMwagi/https://github.com/NormanMwagi/Note-Keeping-App',
     title: 'second project',
     text: 'A React application that allows you to take notes and also delete.',
