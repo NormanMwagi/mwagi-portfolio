@@ -27,7 +27,11 @@ export const skills = [
     id: nanoid(),
     title: 'C#',
     icon: <img src={csharp} alt="C#" className="h-16 w-16 text-emerald-500" />,
+<<<<<<< HEAD
     text: <span>Proficiency in C# building Web Applications using Asp.net Core, Entity Framework, Rest APIs and Authorization Using Jwt Key.</span>
+=======
+    text:  <span>Proficiency in C# building Web Applications using Asp.net Core, Entity Framework, Rest APIs and Authorization Using Jwt Key.</span>
+>>>>>>> origin/main
   },
   {
     id: nanoid(),
